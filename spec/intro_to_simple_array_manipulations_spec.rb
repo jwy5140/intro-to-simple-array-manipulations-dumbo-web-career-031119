@@ -1,5 +1,5 @@
 require "pry"
-require './lib/intro_to_simple_array_manipulations.rb'
+require "./lib/intro_to_simple_array_manipulations.rb"
 
 
 describe "#using_push" do 
